@@ -41,6 +41,11 @@ Permisos:
 - w = escritura
 - x = ejecución
 
+## Comandos usados
+
+- chmod = cambiar permisos
+- 777 = dar permisos totales (rwx) a todos 
+
 ## Reflexión de ciberseguridad
 
 El uso de `chmod 777` es peligroso porque permite que cualquier usuario modifique o ejecute el archivo.
